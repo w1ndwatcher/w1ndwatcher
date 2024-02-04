@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @w1ndwatcher
-- 👀 I’m interested in Data Analytics and Machine Learning.
-- 🌱 I’m currently learning Python for Data Analysis and designing output using general tools. I am doing a Diploma in Data Science.
+- 👀 I’m interested in Data Analytics, Machine Learning and Application Development.
+- 🌱 I’m currently working as a Python developer. I am also doing a Diploma in Data Science and Programming.
 - 💞️ I’m looking to collaborate on industry level projects to brush up my skills.
 - 📫 How to reach me ...
 
